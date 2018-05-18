@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp2", "NodejsWebApp2\NodejsWebApp2.njsproj", "{502CFB58-304F-423F-80CC-A86AE44027CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502CFB58-304F-423F-80CC-A86AE44027CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502CFB58-304F-423F-80CC-A86AE44027CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502CFB58-304F-423F-80CC-A86AE44027CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502CFB58-304F-423F-80CC-A86AE44027CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9EC3409-4DF3-4F08-A336-2B21DB2B900C}
+	EndGlobalSection
+EndGlobal
